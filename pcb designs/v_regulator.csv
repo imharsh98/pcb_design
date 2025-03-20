@@ -1,0 +1,10 @@
+"Part";"Value";"Device";"Package";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";
+"C_IN";"100µF";"CPOL-USE2.5-5";"E2,5-5";"POLARIZED CAPACITOR, American symbol";"";"";"";"";
+"C_OUT";"469µF";"CPOL-USE2.5-5";"E2,5-5";"POLARIZED CAPACITOR, American symbol";"";"";"";"";
+"D1";"1N5624";"1N5624";"DO201-15";"DIODE";"";"";"";"";
+"IC1";"";"LM2576-T05D";"TO220-5_STAGGERED";"LM2576/LM2576HV Series";"";"";"";"";
+"L1";"68µH";"L-EU6000-XXX-RC";"6000-XXXX-RC";"INDUCTOR, European symbol";"";"";"";"";
+"R1";"3.6k";"R-EU_0207/10";"0207/10";"RESISTOR, European symbol";"";"";"";"";
+"R2";"11k";"R-EU_0207/10";"0207/10";"RESISTOR, European symbol";"";"";"";"";
+"X1";"12V";"W237-102";"W237-102";"WAGO SCREW CLAMP";"";"237-102";"unknown";"70K9898";
+"X2";"";"W237-102";"W237-102";"WAGO SCREW CLAMP";"";"237-102";"unknown";"70K9898";
