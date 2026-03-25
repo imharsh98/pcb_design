@@ -2,8 +2,7 @@
 
 ## Overview
 
-This repository contains the complete PCB schematics and layouts for digital circuits (decade counter, voltage regulator), ensuring
-correct pin-mapping and power integrity. This work was undertaken during an internship which the author undertook for his BTech requirements at the company named Core Future.
+This repository contains the complete PCB schematics and layouts for digital circuits (555 flasher, arduino microcontroller, decade counter, voltage regulator), ensuring correct pin-mapping and power integrity. This work was undertaken during an internship which the author attended for his BTech requirements. The internship was done at the company named Core Future.
 
 ## Repository Structure
 
